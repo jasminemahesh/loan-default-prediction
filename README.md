@@ -60,3 +60,4 @@ I'm a Senior Solutions Architect and budding Data Scientist
 ## 🛠 Skills
 AWS Solutions Architecture, Machine Learning, Security, Containers
 
+# loan-default-prediction
